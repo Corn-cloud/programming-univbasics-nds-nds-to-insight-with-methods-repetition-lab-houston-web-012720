@@ -29,7 +29,7 @@ def list_of_directors(source)
   i = 0 
   
   while i < source.length do
-    
+    names = 
   # Write this implementation
 end
 
