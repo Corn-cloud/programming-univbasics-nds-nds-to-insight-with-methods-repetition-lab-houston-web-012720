@@ -32,7 +32,7 @@ def list_of_directors(source)
     names << source[i][:names]
     i += 1 
   end
-  name
+  names
   # Write this implementation
 end
 
